@@ -116,10 +116,6 @@ PRODUCT_PROPERTY_OVERRIDES += ro.hdmi.set_menu_language=false
 # Keep secure decoders in mediaserver process
 PRODUCT_PROPERTY_OVERRIDES += media.stagefright.less-secure=true
 
-# Boot Animation
-PRODUCT_COPY_FILES += \
-    device/asus/fugu/bootanimation-580-256col.zip:system/media/bootanimation.zip
-
 # Bluetooth
 PRODUCT_PACKAGES += \
     bt_bcm4354

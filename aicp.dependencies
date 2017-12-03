@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "AICP/device_asus_fugu-kernel",
+    "target_path": "device/asus/fugu-kernel",
+    "branch":     "o8.0"
+  },
+  {
+   "repository":  "AICP/proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch":      "o8.0"
+  },
+  {
+   "repository":  "AICP/proprietary_vendor_broadcom",
+   "target_path": "vendor/broadcom",
+   "branch":      "o8.0"
+  },
+  {
+   "repository":  "AICP/proprietary_vendor_google",
+   "target_path": "vendor/google",
+   "branch":      "o8.0"
+  },
+  {
+   "repository":  "AICP/proprietary_vendor_intel",
+   "target_path": "vendor/intel",
+   "branch":      "o8.0"
+  }
+]
